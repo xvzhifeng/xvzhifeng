@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Zhifeng Xu</h1>
 <h3 align="center">A Python developer.</h3>
 <p align='center'>
-  当前正在学习JS逆向、AST反混淆、安卓逆向、验证码识别 <br/><br/>
+  当前正在学习JS逆向、AST反混淆、安卓逆向、验证码识别、GO语言 <br/><br/>
 </p>
-
 <p align='center'>
- 
+
 </p>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats" margin-right="10px">
